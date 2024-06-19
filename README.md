@@ -1,17 +1,16 @@
-<h1 align='center'>Installation pentaho on ubuntu 22.04</h1>
+<h1 align='center'>Guidebook Pentaho on Ubuntu 22.04</h1>
 
-## install virtual box
+## 1. install virtual box
 
 - install virtual box the latest version according to your operating system : https://www.virtualbox.org/wiki/Download_Old_Builds_7_0
 ㅤ
-- After being downloaded, double click downloaded files And you will get a look like this 
+- After being downloaded, You can install Virtual Box with tutorials found on Google : 
+- https://data-flair.training/blogs/install-virtualbox/
+- https://www.geeksforgeeks.org/how-to-install-virtualbox-on-windows/
 
-![virtualbox-step-1](img/virtualbox/step1vb.png)
+- If successful, you can open a virtual box and get a look like this
 
-- click next
-- and then Uncheck “Create a shortcut in the Quick Launch Bar” and click “Next”
+![virtualbox-1](img/virtualbox/vb1.png)
 
-![virtualbox-step-2](img/virtualbox/step2vb.png)
-
-- and then, click yes
-- and click install
+## 2. Create VM Ubuntu 22.04 in Virtual Box
+- install iso ubuntu 22.04 
