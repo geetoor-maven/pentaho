@@ -1,4 +1,4 @@
-## 3. Starting Ubuntu Virtual Machines 22.04
+# Starting Ubuntu Virtual Machines 22.04
 
 1. After all the steps above are complete, you will see a new virtual machine created on your VirtualBox. Select it from the left side panel and press the Start button.
 

@@ -1,4 +1,4 @@
-## 2. Create VM Ubuntu 22.04 in Virtual Box
+# Create VM Ubuntu 22.04 in Virtual Box
 
 1. install iso ubuntu 22.04 : <a href='https://releases.ubuntu.com/jammy/ubuntu-22.04.4-desktop-amd64.iso' target='_blank'>Download Here</a>
 
@@ -18,3 +18,5 @@
 
 8. Select Disk Size and provide the Destination Folder to install and Allocate about Minimum 30GB of virtual space. and click Create
 ![virtualbox-3](img/vm/vm3.png)
+
+## <a href='https://github.com/geetoor-maven/pentaho/blob/master/START_UBUNTU.md'>Next Step</a>
