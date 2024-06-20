@@ -9,4 +9,4 @@
 3. If successful, you can open a virtual box and get a look like this
 ![virtualbox-1](img/virtualbox/vb1.png)
 
-## <a href='https://github.com/geetoor-maven/pentaho/blob/master/VM_UBUNTU.md'>Next Step</a>
+#### <a href='https://github.com/geetoor-maven/pentaho/blob/master/2_VM_UBUNTU.md'>Next Step</a>

@@ -19,4 +19,4 @@
 8. Select Disk Size and provide the Destination Folder to install and Allocate about Minimum 30GB of virtual space. and click Create
 ![virtualbox-3](img/vm/vm3.png)
 
-## <a href='https://github.com/geetoor-maven/pentaho/blob/master/START_UBUNTU.md'>Next Step</a>
+#### <a href='https://github.com/geetoor-maven/pentaho/blob/master/3_START_UBUNTU.md'>Next Step</a>
