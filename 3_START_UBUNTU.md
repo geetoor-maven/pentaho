@@ -25,3 +25,5 @@
 
 13. Once the installation process is over, reboot your Virtual Machine.
 14. Yuhuuuu....You’re finished with the installation process
+
+#### <a href='https://github.com/geetoor-maven/pentaho/blob/master/4_INSTALL_JAVA.md'>Next Step</a>
