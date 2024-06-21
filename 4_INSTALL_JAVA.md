@@ -19,11 +19,11 @@ java -version
 ```
 ![JAVA-3](img/java/jv3.png)
 
-4. Set Environment Variables. Open the ~/.bashrc with By running this command in the terminal
+4. Set Environment Variables. Open the ~/.bashrc with by running this command in the terminal
 ```sh
 gedit .bashrc 
 ```
-and add this code At the top line
+And add this code at the top line
 ```sh
 # add java home
 export JAVA_HOME=$(dirname $(dirname $(readlink -f $(which java))))

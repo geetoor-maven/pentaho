@@ -10,4 +10,5 @@
 | 2 | [CREATE VM UBUNTU in VIRTUABL BOX](https://github.com/geetoor-maven/pentaho/blob/master/2_VM_UBUNTU.md) |
 | 3 | [STARTING UBUNTU VIRTUAL MACHINES](https://github.com/geetoor-maven/pentaho/blob/master/3_START_UBUNTU.md) |
 | 4 | [INSTALL JAVA](https://github.com/geetoor-maven/pentaho/blob/master/4_INSTALL_JAVA.md) |
+| 5 | [INSTALL PENTAHO](https://github.com/geetoor-maven/pentaho/blob/master/5_INSTALL_PENTAHO.md) |
 
