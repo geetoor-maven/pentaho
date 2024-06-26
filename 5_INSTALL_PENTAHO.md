@@ -35,7 +35,10 @@ and you will get output like this
 ```sh
 ./spoon.sh
 ```
-And maybe you will get an error about no libwebkitgtk-1.0 detected
+And maybe you will get an error about no libwebkitgtk-1.0 detected as shown below
+
+![PEN-7](img/pentaho/pen7.png)
+please close your pentaho application and open terminal application to package library LIBWEBKITGTK
 
 10. Add LIBWEBKITGTK-1.0-0 ON UBUNTU
 11. Open your teminal and run this order
@@ -74,4 +77,5 @@ sudo apt-get install libwebkitgtk-1.0-0
 ./spoon.sh
 ```
 
-16. yeayy
+16. Now the LIBWEBKITGTK package is no longer detected and you can use pentaho data-integration
+![PEN-8](img/pentaho/pen8.png)
