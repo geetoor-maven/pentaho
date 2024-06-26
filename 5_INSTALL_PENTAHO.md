@@ -38,7 +38,7 @@ and you will get output like this
 And maybe you will get an error about no libwebkitgtk-1.0 detected as shown below
 
 ![PEN-7](img/pentaho/pen7.png)
-please close your pentaho application and open terminal application to package library LIBWEBKITGTK
+please close your pentaho application and open terminal application to setup package library LIBWEBKITGTK
 
 10. Add LIBWEBKITGTK-1.0-0 ON UBUNTU
 11. Open your teminal and run this order
