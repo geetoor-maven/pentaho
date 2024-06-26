@@ -79,3 +79,6 @@ sudo apt-get install libwebkitgtk-1.0-0
 
 16. Now the LIBWEBKITGTK package is no longer detected and you can use pentaho data-integration
 ![PEN-8](img/pentaho/pen8.png)
+
+
+#### <a href='https://github.com/geetoor-maven/pentaho/blob/master/6_DRIVER_SQL_SERVER.md'>Next Step</a>

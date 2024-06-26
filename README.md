@@ -11,4 +11,5 @@
 | 3 | [STARTING UBUNTU VIRTUAL MACHINES](https://github.com/geetoor-maven/pentaho/blob/master/3_START_UBUNTU.md) |
 | 4 | [INSTALL JAVA](https://github.com/geetoor-maven/pentaho/blob/master/4_INSTALL_JAVA.md) |
 | 5 | [INSTALL PENTAHO](https://github.com/geetoor-maven/pentaho/blob/master/5_INSTALL_PENTAHO.md) |
+| 6 | [DRIVER SQL SERVER](https://github.com/geetoor-maven/pentaho/blob/master/6_DRIVER_SQL_SERVER.md) |
 

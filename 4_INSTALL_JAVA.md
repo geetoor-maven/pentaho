@@ -43,3 +43,6 @@ echo $JAVA_HOME
 echo $PATH
 ```
 ![JAVA-5](img/java/jv5.png)
+
+
+#### <a href='https://github.com/geetoor-maven/pentaho/blob/master/5_INSTALL_PENTAHO.md'>Next Step</a>
