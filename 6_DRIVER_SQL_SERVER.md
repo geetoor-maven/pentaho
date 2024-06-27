@@ -2,7 +2,7 @@
 
 1. Because pentaho does not have help tools for connecting to sql server, therefor we must download manually SQL Server Driver.
 
-2. Download driver sql server in <a href='https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver16' target='_blank'>here</a>
+2. Download driver sql server in <a href='https://www.microsoft.com/en-us/download/details.aspx?id=11774' target='_blank'>here</a>
 
 3. You cant see documentation about sql server driver in <a href='https://learn.microsoft.com/en-us/sql/connect/jdbc' target='_blank'>here</a>
 
@@ -12,7 +12,8 @@
 5. Extract your file zip by clicking two times 
 6. Move the jar file that is on the folder
 ```sh
-Download/sqljdbc_<version>_/enu/jars/sqljdbc_<version>_.jre8.jar
+Download/sqljdbc_<version>_/enu/jre8/sqljdbc42.jar
+Download/sqljdbc_<version>_/enu/jre7/sqljdbc41.jar
 ```
 move to the file
 ```sh
