@@ -22,3 +22,4 @@ Download/data-integration/lib/
 
 7. Now that the JDBC drivers have been copied to the appropriate folders, re-start the pentaho data integration by launch tools ./spoon.sh
 
+#### <a href='https://github.com/geetoor-maven/pentaho/blob/master/7_CONNECT_DRIVER_SQL.md'>Next Step</a>
