@@ -12,6 +12,7 @@
 | 4 | [INSTALL JAVA](https://github.com/geetoor-maven/pentaho/blob/master/4_INSTALL_JAVA.md) |
 | 5 | [INSTALL PENTAHO](https://github.com/geetoor-maven/pentaho/blob/master/5_INSTALL_PENTAHO.md) |
 | 6 | [DRIVER SQL SERVER](https://github.com/geetoor-maven/pentaho/blob/master/6_DRIVER_SQL_SERVER.md) |
-| 7 | [TEST CONNECTION SQL SERVER](https://github.com/geetoor-maven/pentaho/blob/master/7_CONNECT_DRIVER_SQL.md) |
+| 7 | [SETUP OPERATING SYSTEM](https://github.com/geetoor-maven/pentaho/blob/master/7_SETUP_OPERATING_SYSTEM.md) |
+| 8 | [CONNECT DRIVER SQL SERVER HOST](https://github.com/geetoor-maven/pentaho/blob/master/8_CONNECT_DRIVER_SQL.md) |
 
 
