@@ -14,15 +14,21 @@ logs
 
 3. For SH files that your have downloaded, can be moved to the SH folder that has just been made, and For ktr files that your have download, can be moved also to the transformation folder that has jus been made.
 
-4. Open SH file with command line gedit in the terminal app.
+4. Running chmod u+w /path_log_folder so that the file log can be created when running the SH file
+```sh
+chmod u+w /home/peraa-pentaho/Downloads/logs
+```
+![SH-4](img/sh/sh4.png)
+
+5. Open SH file with command line gedit in the terminal app.
 ```sh
 gedit <your_sh_file>
 ```
 
-5. After the SH file is open, You will see the code like the image below
+6. After the SH file is open, You will see the code like the image below
 ![SH-2](img/sh/sh2.png)
 
-6. Define value variables for your connection slq server.
+7. Define value variables for your connection slq server.
 ```sh
 SQL_SERVER_HOST = "your_server_host"
 SQL_SERVER_PORT = "sql_server_port"
@@ -31,17 +37,17 @@ SQL_SERVER_USER = "your_user_name"
 SQL_SERVER_PASSWORD = "your_password"
 ```
 
-7. For value variable for connection postgres, no need to be contested
+8. For value variable for connection postgres, no need to be contested
 
-8. Save your SH file and close text editor
+9. Save your SH file and close text editor
 
-9. Run chmod command line, so that SH files can be run.
+10. Run chmod command line, so that SH files can be run.
 ```sh
 chmod +x <your_sh_file>
 ```
 
-10. Now you can run your SH file with command :
+11. Now you can run your SH file with command superadmin :
 ```sh
-./your_sh_file.sh
+sudo ./your_sh_file.sh
 ```
 ![SH-3](img/sh/sh3.png)
