@@ -76,4 +76,4 @@ sudo apt-get install telnet
 Now you should have communicated each other 2 machine ( host windows and ubuntu virtual machine ) and can be used for the SQL server database connection to windows host
 
 
-#### <a href='https://github.com/geetoor-maven/pentaho/blob/master/8_CONNECT_DRIVER_SQL.md'>Next Step</a>
+#### <a href='https://github.com/geetoor-maven/pentaho/blob/master/8_RUNNING_SH_FILE.md'>Next Step</a>
