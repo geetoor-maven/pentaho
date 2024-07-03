@@ -19,7 +19,7 @@
 
 9. Click on the continue button, and proceed with writing changes on the disk.
 10. Select your location to set the time zone.
-11. Choose a name for your computer and set a password to secure login info.
+11. Choose a name for your computer ( please give a name with a name = peraa-pentaho ) and set a password to secure login info.
 12. Wait for the installation process to complete.
 ![ubuntu-5](img/ubuntu/ub5.png)
 
