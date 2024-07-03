@@ -14,5 +14,5 @@
 | 6 | [DRIVER SQL SERVER](https://github.com/geetoor-maven/pentaho/blob/master/6_DRIVER_SQL_SERVER.md) |
 | 7 | [SETUP OPERATING SYSTEM](https://github.com/geetoor-maven/pentaho/blob/master/7_SETUP_OPERATING_SYSTEM.md) |
 | 8 | [RUNNING SH FILE](https://github.com/geetoor-maven/pentaho/blob/master/8_RUNNING_SH_FILE.md) |
-
+| 9 | [CHECK LOG FILE](https://github.com/geetoor-maven/pentaho/blob/master/9_CHECK_LOG_FILE.md) |
 
